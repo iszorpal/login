@@ -1,7 +1,7 @@
 
 {
     "name": "iszorpal/login",
-    "description": "",
+    "description": "Create complex login systems with complete ease.",
     "keywords": [],
     "license": "MIT",
     "require": {
