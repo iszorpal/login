@@ -21,7 +21,7 @@
          timeoutForLargeTests="15"
          verbose="false">
     <testsuites>
-        <testsuite name="Crystal Router Test Suite">
+        <testsuite name="Viper Login Test Suite">
             <directory suffix="Test.php">./tests</directory>
         </testsuite>
     </testsuites>
